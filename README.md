@@ -1,4 +1,4 @@
-## Hello World 👋
+## Hi there 👋
 
 I’m Jakub, a passionate engineer with a background in automation and robotics.  
 I graduated with a Master’s degree in Automation and Robotics in 2024.  
