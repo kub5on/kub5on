@@ -6,8 +6,14 @@ For many years, I’ve been fascinated by machine learning and artificial intell
 which inspired me to pursue postgraduate studies in this field.  
 
 ### 🚀 About Me
-- 🎓 **Master’s in Automation and Robotics** – completed in 2024  
-- 📚 Currently expanding my skills through **postgraduate studies in Machine Learning & AI**  
+- 🎓 **Master’s in Automation and Robotics** - completed in 2024  
+- 📚 Currently expanding my skills through **postgraduate studies in Machine Learning & AI**
+
+## 🛠️ Skills & Tools
+- **Programming:** Python, C
+- **AI & ML:** scikit-learn, TensorFlow, Keras 
+- **Robotics:** MATLAB, control systems, FANUC
+- **Other Tools:** Git, Windows
 
 <!--
 **kub5on/kub5on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
