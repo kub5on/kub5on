@@ -1,11 +1,11 @@
-### Hello World 👋
+## Hello World 👋
 
 I’m Jakub, a passionate engineer with a background in automation and robotics.  
 I graduated with a Master’s degree in Automation and Robotics in 2024.  
 For many years, I’ve been fascinated by machine learning and artificial intelligence algorithms,  
 which inspired me to pursue postgraduate studies in this field.  
 
-## 🚀 About Me
+### 🚀 About Me
 - 🎓 **Master’s in Automation and Robotics** – completed in 2024  
 - 📚 Currently expanding my skills through **postgraduate studies in Machine Learning & AI**  
 
